@@ -1,6 +1,6 @@
 # Search Person Info
 
-A program for searching famous people by keyword. Made in conjunction with
+A program for searching famous people by keyword. Made in conjunction with <code><a href="https://github.com/LPLP-ghacc">LPLP</a></code>
 
 ### Links:
 
