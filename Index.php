@@ -1,4 +1,4 @@
-<!--Auther: mr_maksis, 2022 -->
+<!--Author: mr_maksis, 2022 -->
 
 <?php
 $filename = __DIR__ . '/DateBaseChareter.json';         //Link to the Json file, from the current directory
