@@ -1,6 +1,6 @@
 # Search Person Info
 
 <code>
-  <a href="https://github.com/LPLP-ghacc/Person-Info">Link</a>
+  <a href="https://github.com/LPLP-ghacc/Person-Info">Link to the client part</a>
 </code>
 
